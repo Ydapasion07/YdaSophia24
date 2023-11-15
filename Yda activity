@@ -1,0 +1,27 @@
+<html>
+  <head><title>Justclick</title></head>
+  <font face="monospace"color="blue"size="5">My information</font>
+ <body>
+   <font color="yellow">
+   <p>Full name: Yda Sophia A. Pasion</p>
+   </font>
+   <font color="green">
+   <p>Address: 3 t lontoc st. Calzada tipas taguig city</p>
+   </font>
+   <font color="pink">
+   <p>Mother name: Jeane D. Albeso</p>
+   </font>
+   <font color="orange">
+   <p>Father name: Jerome D. Pasion</p>
+   </font>
+   <font color="red">
+   <p>School name: Asia Source iCollege</p>
+   </font>
+   <font color="brown">
+    <p>Strand: ICT</p>
+    </font>
+    <font color="purple">
+    <p>Section: CP1A-M</p>
+    </font>
+ </body>
+</html>
